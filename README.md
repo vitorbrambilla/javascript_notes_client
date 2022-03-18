@@ -1,1 +1,1 @@
-A client side of a javascript notes application.
+The client side of a javascript notes application.
